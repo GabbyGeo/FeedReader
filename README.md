@@ -10,7 +10,7 @@ Begin $FeedReader Testing Project by opening:
 
 	https://gabbygeo.github.io/FeedReader/  
 
-	or download the files here, unzip and run the index.html file. 
+	or download the files here, unzip and run the index.html file in a web browser. 
 
 Steps Taken to Write the Jasmine Tests 
 --------
